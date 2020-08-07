@@ -5,5 +5,3 @@
 
 ## Attify SDR Improved Image
 #### An Attify OVA that adds some quick additional touches for things like zigbee and bluetooth v5 sniffing on even a HackRF or #### LimeSDR out of the box (or maybe slight adjustments in GNURadio for some)
-
-https://www.arashparsa.com/attifyos-limesdr-flavor.rar 
